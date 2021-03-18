@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "3 ways to check for time series stationarity"
-date:       2021-03-18 19:31:33 +0000
+date:       2021-03-18 15:31:33 -0400
 permalink:  3_ways_to_check_for_time_series_stationarity
 ---
 
